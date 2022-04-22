@@ -80,7 +80,7 @@ Here is one last example before we move on:
 
    echo -a $left(Hello There!, 5) $right(Hi World!, 6)
 
-This gets the five left-most characters ("Hello") and the five right-most characters ("World!"). The final output is:
+This gets the five left-most characters ("Hello") and the six right-most characters ("World!"). The final output is:
 
 .. code:: text
 
